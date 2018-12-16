@@ -1,0 +1,23 @@
+{
+  "name": "arduino-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serial-port-client/client.js",
+  "dependencies": {
+    "serialport": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitali-shcharbin-epam/arduino-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitali-shcharbin-epam/arduino-example/issues"
+  },
+  "homepage": "https://github.com/vitali-shcharbin-epam/arduino-example#readme"
+}
